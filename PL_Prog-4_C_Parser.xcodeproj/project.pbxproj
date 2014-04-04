@@ -6,10 +6,19 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		EE4027E118ED9CC1003F1BF1 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		EE4027E218ED9CC1003F1BF1 /* parser.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = parser.c; sourceTree = "<group>"; usesTabs = 1; };
+		EE4027E918EDA4A0003F1BF1 /* test.cfg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test.cfg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		EE4027D618ED9C22003F1BF1 = {
 			isa = PBXGroup;
 			children = (
+				EE4027E918EDA4A0003F1BF1 /* test.cfg */,
+				EE4027E118ED9CC1003F1BF1 /* Makefile */,
+				EE4027E218ED9CC1003F1BF1 /* parser.c */,
 			);
 			sourceTree = "<group>";
 		};
@@ -23,6 +32,7 @@
 			buildPhases = (
 			);
 			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "/Users/harshit/Documents/workspace/PL_Prog-4_C_Parser";
 			dependencies = (
 			);
 			name = "PL_Prog-4_C_Parser";
@@ -165,6 +175,7 @@
 				EE4027E018ED9C22003F1BF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
