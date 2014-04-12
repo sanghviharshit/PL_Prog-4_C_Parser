@@ -10,6 +10,19 @@
 		EE4027E118ED9CC1003F1BF1 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		EE4027E218ED9CC1003F1BF1 /* parser.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = parser.c; sourceTree = "<group>"; usesTabs = 1; };
 		EE4027E918EDA4A0003F1BF1 /* test.cfg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test.cfg; sourceTree = "<group>"; };
+		EE4027EA18EF5151003F1BF1 /* x1.cfg */ = {isa = PBXFileReference; lastKnownFileType = text; path = x1.cfg; sourceTree = "<group>"; };
+		EE4027EB18EF5151003F1BF1 /* x1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = x1.txt; sourceTree = "<group>"; };
+		EE4027EC18EF5151003F1BF1 /* x2.cfg */ = {isa = PBXFileReference; lastKnownFileType = text; path = x2.cfg; sourceTree = "<group>"; };
+		EE4027ED18EF5151003F1BF1 /* x2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = x2.txt; sourceTree = "<group>"; };
+		EE4027EE18EF5151003F1BF1 /* x3.cfg */ = {isa = PBXFileReference; lastKnownFileType = text; path = x3.cfg; sourceTree = "<group>"; };
+		EE4027EF18EF5151003F1BF1 /* x3.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = x3.txt; sourceTree = "<group>"; };
+		EE4027F018EF5151003F1BF1 /* x4.cfg */ = {isa = PBXFileReference; lastKnownFileType = file; path = x4.cfg; sourceTree = "<group>"; };
+		EE4027F118EF5151003F1BF1 /* x4.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = x4.txt; sourceTree = "<group>"; };
+		EE4027F218EF5151003F1BF1 /* x5.cfg */ = {isa = PBXFileReference; lastKnownFileType = text; path = x5.cfg; sourceTree = "<group>"; };
+		EE4027F318EF5151003F1BF1 /* x5.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = x5.txt; sourceTree = "<group>"; };
+		EE4027F418EF5151003F1BF1 /* x6.cfg */ = {isa = PBXFileReference; lastKnownFileType = text; path = x6.cfg; sourceTree = "<group>"; };
+		EE4027F518EF5151003F1BF1 /* x6.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = x6.txt; sourceTree = "<group>"; };
+		EEA393A118F9E57400B04348 /* parser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = parser.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +32,19 @@
 				EE4027E918EDA4A0003F1BF1 /* test.cfg */,
 				EE4027E118ED9CC1003F1BF1 /* Makefile */,
 				EE4027E218ED9CC1003F1BF1 /* parser.c */,
+				EEA393A118F9E57400B04348 /* parser.h */,
+				EE4027EA18EF5151003F1BF1 /* x1.cfg */,
+				EE4027EB18EF5151003F1BF1 /* x1.txt */,
+				EE4027EC18EF5151003F1BF1 /* x2.cfg */,
+				EE4027ED18EF5151003F1BF1 /* x2.txt */,
+				EE4027EE18EF5151003F1BF1 /* x3.cfg */,
+				EE4027EF18EF5151003F1BF1 /* x3.txt */,
+				EE4027F018EF5151003F1BF1 /* x4.cfg */,
+				EE4027F118EF5151003F1BF1 /* x4.txt */,
+				EE4027F218EF5151003F1BF1 /* x5.cfg */,
+				EE4027F318EF5151003F1BF1 /* x5.txt */,
+				EE4027F418EF5151003F1BF1 /* x6.cfg */,
+				EE4027F518EF5151003F1BF1 /* x6.txt */,
 			);
 			sourceTree = "<group>";
 		};
