@@ -813,6 +813,10 @@ char *ReadFile() {
 int main (const int argc, const char **argv) {
     char *input  = ReadFile();
     tokenData *tree = Parse(input);
-
+/*
+	for(int i=1; i<=127; i++)
+		printf("%c->",i);
+*/
+	
     return 0;
 }
