@@ -1,0 +1,12 @@
+language: cpp
+compiler:
+  - gcc
+  - clang
+install: make
+script: bin/imp4
+branches:
+  only:
+    - master
+os:
+  - linux
+  - osx
