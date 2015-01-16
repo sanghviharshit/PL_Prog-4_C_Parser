@@ -3,8 +3,8 @@ TARGETS=imp4
 
 all: $(TARGETS)
 
-imp4: parser.c parser.h
-	$(CC) -o imp4 parser.c
+imp4: src/parser.c
+	$(CC)  -I include -o bin/imp4 src/parser.c
 
 clean:
-	-rm $(TARGETS)
+	-rm bin/$(TARGETS)
